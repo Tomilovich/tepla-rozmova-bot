@@ -1,0 +1,15 @@
+# Залежності Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Секретні файли
+.env
+
+# База даних (якщо не хочеш її на GitHub)
+tepla_rozmova.db
+
+# Інше
+.DS_Store
+Thumbs.db
